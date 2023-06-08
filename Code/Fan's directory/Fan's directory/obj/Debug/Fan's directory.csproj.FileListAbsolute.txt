@@ -1,0 +1,15 @@
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\bin\Debug\Fan's directory.exe.config
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\bin\Debug\Fan's directory.exe
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\bin\Debug\Fan's directory.pdb
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.csproj.AssemblyReference.cache
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.csproj.SuggestedBindingRedirects.cache
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan_s_directory.Form1.resources
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan_s_directory.Properties.Resources.resources
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.csproj.GenerateResource.cache
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.csproj.CoreCompileInputs.cache
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.exe
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.pdb
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan_s_directory.InfoForm.resources
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IGOREK\Source\Repos\Fan's directory\Fan's directory\obj\Debug\Fan's directory.csproj.CopyComplete
